@@ -1,8 +1,8 @@
 {
-  "name": "tv4",
-  "version": "1.1.1",
-  "author": "Geraint Luff",
-  "description": "A public domain JSON Schema validator for JavaScript",
+  "name": "tv4-temp",
+  "version": "0.0.1",
+  "author": "Yakov Khalinsky",
+  "description": "Temporary fork of TV4 library https://github.com/geraintluff/",
   "keywords": [
     "json-schema",
     "schema",
@@ -11,20 +11,20 @@
   ],
   "maintainers": [
     {
-      "name": "Geraint Luff",
-      "email": "luffgd@gmail.com",
-      "web": "https://github.com/geraintluff/"
+      "name": "Yakov Khalinsky",
+      "email": "yakov@therocketsurgeon.com",
+      "web": "https://github.com/yakovkhalinsky"
     }
   ],
   "main": "tv4.min.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/geraintluff/tv4.git"
+    "url": "https://github.com/yakovkhalinsky/tv4.git"
   },
   "license:": [
     {
       "type": "Public Domain",
-      "url": "http://geraintluff.github.io/tv4/LICENSE.txt"
+      "url": "https://github.com/yakovkhalinsky/tv4/blob/master/LICENSE.txt"
     },
     {
       "type": "MIT",
